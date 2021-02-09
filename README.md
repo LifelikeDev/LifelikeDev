@@ -1,4 +1,4 @@
-### Hi, I'm Navian 👋
+## Hi, I'm Navian 👋
 --- 
 #### Welcome to my profile
 

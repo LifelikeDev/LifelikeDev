@@ -1,7 +1,7 @@
 ## Hi, I'm Navian 👋
 ### Welcome to my profile
 
-I am a Front End Developer & Web Designer who works hard to become better each and every day 🚀✈
+I am a Software Engineer & Web Designer who works hard to become better each and every day 🚀✈
 
 ### Technologies & Tools
 <span>

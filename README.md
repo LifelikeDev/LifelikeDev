@@ -1,7 +1,7 @@
 ## Hi, I'm Ivan 👋
 ### Welcome to my profile
 
-I am a Software Engineer & Web Designer who works hard to become better each and every day 🚀✈
+I am a Software Engineer who works hard to become better each and every day 🚀✈
 
 ### Technologies & Tools
 <span>

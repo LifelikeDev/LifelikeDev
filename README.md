@@ -38,7 +38,7 @@ I am a Software Engineer who works hard to become better each and every day 🚀
  • Advanced Content and Social Tactics to Optimize SEO - [Coursera](https://www.coursera.org/account/accomplishments/verify/APWMV8BBXZXG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
  • Foundations of User Experience (UX) Design - [Coursera](https://www.coursera.org/account/accomplishments/verify/XN2GPGBGJZK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
  • Create High-Fidelity Designs and Prototypes in Figma - [Coursera](https://www.coursera.org/account/accomplishments/verify/6VE6ZKXSNE8L?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
-
+ • Responsive Web Design in Adobe XD - [Coursera](https://www.coursera.org/account/accomplishments/verify/RRYY9KCQ7Z8R?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
 
 
 ### Get in touch 

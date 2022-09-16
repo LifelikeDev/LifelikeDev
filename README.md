@@ -30,6 +30,17 @@ I am a Software Engineer who works hard to become better each and every day 🚀
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 </span>
 
+### Relevant Certifications
+ • Computer Programming For Everyone - [Future Learn](https://www.futurelearn.com/certificates/rk9zfwv) <br />
+ • Advanced Styling with Responsive Design - [Coursera](https://www.coursera.org/account/accomplishments/verify/2GT9CAYLWMYW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
+ • Interactivity with JavaScript - [Coursera](https://www.coursera.org/account/accomplishments/verify/8H4WY2MY4GL3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
+ • Google SEO Fundamentals - [Coursera](https://www.coursera.org/account/accomplishments/verify/8HAKCXAPFVEE?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
+ • Advanced Content and Social Tactics to Optimize SEO - [Coursera](https://www.coursera.org/account/accomplishments/verify/APWMV8BBXZXG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
+ • Foundations of User Experience (UX) Design - [Coursera](https://www.coursera.org/account/accomplishments/verify/XN2GPGBGJZK3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
+ • Create High-Fidelity Designs and Prototypes in Figma - [Coursera](https://www.coursera.org/account/accomplishments/verify/6VE6ZKXSNE8L?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br />
+
+
+
 ### Get in touch 
 <a href="https://twitter.com/lifelike_dev">
   <img align="left" alt="Lifelike_Dev's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />

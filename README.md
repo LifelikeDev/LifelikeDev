@@ -1,9 +1,9 @@
 ## Hi, I'm Ivan 👋
-### Welcome to my profile
+#### Welcome to my Github space
 
 I am a Software Engineer who works hard to become better each and every day. I have a strong passion for building software with great user experience and aesthetic design.
 
-### Technologies & Tools
+### What's in my toolbox 
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />

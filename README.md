@@ -1,7 +1,7 @@
 ## Hi, I'm Ivan 👋
 #### Welcome to my Github space
 
-I am a Software Engineer who works hard to become better each and every day. I have a strong passion for building software with great user experience and aesthetic design.
+I am a Software Engineer who works hard to become better each and every day. I take pleasure in building accessible software with aesthetic user interfaces.
 
 ### What's in my toolbox 
 <span>
